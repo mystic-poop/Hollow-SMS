@@ -13,5 +13,5 @@ git clone https://github.com/mystic-poop/Hollow-SMS
 pip3 install -r requirements.txt
 python3 hollow.py
 ```
-#Disclamier⚠️
+# Disclamier⚠️
 This tool is for educational purposes only. You are responsible for any harm or damage caused by using this tool.
