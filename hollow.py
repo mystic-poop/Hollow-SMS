@@ -215,8 +215,8 @@ if __name__ == "__main__":
 ***********************
 *     X_X             *
 * Made by Mystic-poop *
-*         Or          *
-*       Xenz          *
+*                     *
+*                     *
 ***********************
     """)
     phone = input("Hedefin telefon numarası (+90 olmadan): ").strip()
